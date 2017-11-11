@@ -23,7 +23,7 @@ public class Validation {
 		if (randomNumber == 0) {
 			System.out.println("Nothing");
 		} else if (randomNumber == 1) {
-			System.out.println("We Are Number One");
+			System.out.println("111111111111111111");
 		} else if (randomNumber == 2) {
 			System.out.println("Two is a lucky number");
 		} else if (randomNumber == 3) {

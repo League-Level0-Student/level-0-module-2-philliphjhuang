@@ -11,7 +11,7 @@ public class RollerCoaster {
 		JOptionPane.showMessageDialog(null, "You can ride the rollercoaster.");
 	}
 	else {
-		JOptionPane.showMessageDialog(null,"You need to grow taller to ride the rollercoasters.");
+		JOptionPane.showMessageDialog(null,"You need to grow taller to ride the rollercoaster.");
 	}
 }
 }
